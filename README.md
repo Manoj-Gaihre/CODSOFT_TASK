@@ -14,9 +14,16 @@ The projects focus on building practical skills in data analysis, data preproces
 ## Project Progress
 
 - completed project 1: Titanic Survival Prediction.
+- completed project 2: Movie Rating Prediction.
 
 ## Projects
 
 ### Project 1 - Titanic Survival Prediction
 
 The Titanic Survival Prediction project uses the Titanic dataset to build classification models that predict whether a passenger survived or not.
+
+### Project 2 - Movie Rating Prediction
+
+The Movie Rating Prediction project focuses on predicting movie ratings using historical movie information such as genre, director, actors, and other available features.
+
+Regression techniques are used to estimate movie ratings and evaluate the performance of different machine learning models.
