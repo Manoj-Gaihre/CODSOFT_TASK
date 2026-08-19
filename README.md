@@ -13,7 +13,10 @@ The projects focus on building practical skills in data analysis, data preproces
 
 ## Project Progress
 
-
+- completed project 1: Titanic Survival Prediction.
 
 ## Projects
 
+### Project 1 - Titanic Survival Prediction
+
+The Titanic Survival Prediction project uses the Titanic dataset to build classification models that predict whether a passenger survived or not.

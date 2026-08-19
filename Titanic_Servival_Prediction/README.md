@@ -59,3 +59,90 @@ Important features include:
 11. Compare model performance
 12. Select the best-performing model
 
+## Data Preprocessing
+
+The following preprocessing steps were performed:
+
+- Checked the structure and information of the dataset
+- Identified missing values
+- Handled missing values
+- Selected relevant features
+- Encoded categorical variables
+- Prepared the dataset for machine learning
+
+## Exploratory Data Analysis
+
+Exploratory Data Analysis was performed to understand the relationship between passenger characteristics and survival.
+
+The analysis included:
+
+- Survival distribution
+- Survival by gender
+- Survival by passenger class
+- Age distribution
+- Fare distribution
+- Feature relationships and correlations
+
+Visualizations were created using Matplotlib and Seaborn.
+
+## Machine Learning Models
+
+Two classification models were trained and compared.
+
+### Logistic Regression
+
+Logistic Regression was used as a baseline classification model for predicting whether a passenger survived.
+
+### Random Forest Classifier
+
+Random Forest was used as an ensemble learning model to capture more complex relationships between the features.
+
+## Model Results
+
+| Model | Accuracy |
+|---|---:|
+| Logistic Regression | 80% |
+| Random Forest | 82% |
+
+## Best Model
+
+The Random Forest Classifier performed better than Logistic Regression based on accuracy.
+
+- Logistic Regression: **80%**
+- Random Forest: **82%**
+
+Therefore, Random Forest was selected as the better-performing model in this project.
+
+## What I Learned
+
+Through this project, I learned:
+
+- How to load and inspect a dataset using Pandas
+- How to identify and handle missing values
+- How to perform exploratory data analysis
+- How to visualize data using Matplotlib and Seaborn
+- How to preprocess categorical data
+- How to split data into training and testing sets
+- How to train classification models using Scikit-learn
+- How to compare machine learning models
+- How to evaluate model performance using accuracy
+
+## Challenges Faced
+
+- Handling missing values in the dataset
+- Selecting useful features for prediction
+- Encoding categorical variables
+- Understanding different classification algorithms
+- Comparing model performance
+- Selecting the best-performing model
+
+## Project Structure
+
+```text
+Titanic_Survival_Prediction/
+│
+├── Titanic_Survival_Prediction.ipynb
+├── README.md
+├── data/
+│   └── Titanic.csv
+```
