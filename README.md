@@ -15,6 +15,7 @@ The projects focus on building practical skills in data analysis, data preproces
 
 - completed project 1: Titanic Survival Prediction.
 - completed project 2: Movie Rating Prediction.
+- completed project 3: Iris Flower Classification.
 
 ## Projects
 
@@ -27,3 +28,13 @@ The Titanic Survival Prediction project uses the Titanic dataset to build classi
 The Movie Rating Prediction project focuses on predicting movie ratings using historical movie information such as genre, director, actors, and other available features.
 
 Regression techniques are used to estimate movie ratings and evaluate the performance of different machine learning models.
+
+### Project 3 - Iris Flower Classification
+
+The Iris Flower Classification project uses the Iris dataset to classify flowers into three species:
+
+- Iris-setosa
+- Iris-versicolor
+- Iris-virginica
+
+The project explores data visualization, manual classification, machine learning classification models, cross-validation, model tuning, and misclassification analysis.
