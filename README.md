@@ -16,6 +16,7 @@ The projects focus on building practical skills in data analysis, data preproces
 - completed project 1: Titanic Survival Prediction.
 - completed project 2: Movie Rating Prediction.
 - completed project 3: Iris Flower Classification.
+- completed project 4: Sales Prediction Using Python.
 
 ## Projects
 
@@ -38,3 +39,14 @@ The Iris Flower Classification project uses the Iris dataset to classify flowers
 - Iris-virginica
 
 The project explores data visualization, manual classification, machine learning classification models, cross-validation, model tuning, and misclassification analysis.
+
+### Project 4 - Sales Prediction with Python
+
+Built a sales prediction model using the Advertising dataset and Linear Regression.
+
+- Performed exploratory data analysis and data visualization.
+- Built Simple Linear Regression using TV advertising.
+- Built Multiple Linear Regression using TV, Radio, and Newspaper.
+- Compared the models using R², MAE, and RMSE.
+- Analyzed residuals to evaluate model assumptions.
+- Interpreted regression coefficients to understand the impact of advertising channels.
